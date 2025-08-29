@@ -37,3 +37,30 @@ GCAP (Government Consultation Analytics Platform) is a modern digital platform t
 Clone the repository and install dependencies:
 
 
+---
+
+## How to Use
+
+- Browse all active and past consultations
+- Filter/search by ministry or keyword
+- View real-time dashboards and analytics for each consultation
+- Login/register via OTP to post or like comments
+- Ministers/admins can export reports or download analytics
+
+---
+
+## Contributing
+
+Pull requests are welcome! For major changes, please open an issue first.
+
+---
+
+## License
+
+[MIT](./LICENSE)
+
+---
+
+> GCAP is proudly dedicated to transparent, data-driven government for every citizen.  
+
+
