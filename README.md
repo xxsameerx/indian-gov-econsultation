@@ -9,6 +9,15 @@
 GCAP (Government Consultation Analytics Platform) is a modern digital platform to enable citizens, ministries, and government agencies to participate in and analyze public consultations for Indian policy and law-making. Inspired by the Indian tricolor, GCAP is built with security, transparency, and advanced analytics at its core.
 
 ---
+<img width="1902" height="944" alt="image" src="https://github.com/user-attachments/assets/6f8347e4-7720-4914-bfce-170729552395" />
+<img width="1886" height="883" alt="image" src="https://github.com/user-attachments/assets/002b3be0-747c-4014-8960-8655923a8e55" />
+<img width="1895" height="945" alt="image" src="https://github.com/user-attachments/assets/00a22bca-0764-439e-9cbe-6d202f22b26f" />
+<img width="1903" height="948" alt="image" src="https://github.com/user-attachments/assets/875b325b-c6b1-491f-ba4d-4bf8636c9bec" />
+
+
+
+
+
 
 ## Key Features
 
