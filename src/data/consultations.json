@@ -1,0 +1,87 @@
+[
+  {
+    "id": "consultation-1",
+    "title": "Draft Companies (Amendment) Rules, 2024",
+    "description": "Proposed amendments to simplify compliance procedures for small and medium enterprises under the Companies Act, 2013. The draft aims to reduce regulatory burden while maintaining corporate governance standards.",
+    "content": "The Ministry of Corporate Affairs proposes to amend the Companies (Amendment) Rules to reduce regulatory burden on SMEs while ensuring transparency and accountability. Key proposed changes include:\n\n1. Simplified annual filing requirements for companies with turnover below ₹20 crores\n2. Digital-first approach for all compliance submissions\n3. Reduced penalties for minor compliance lapses\n4. Streamlined incorporation process\n5. Enhanced whistleblower protection mechanisms\n\nThese amendments are expected to benefit over 15 lakh registered companies across India, particularly small and medium enterprises that form the backbone of our economy.\n\nThe draft rules have been prepared after extensive consultation with industry bodies, chartered accountants, and legal experts. We welcome feedback from all stakeholders on these proposed changes.",
+    "category": "Corporate Law",
+    "status": "active",
+    "deadline": "2025-12-31T23:59:59Z",
+    "createdAt": "2024-10-01T09:00:00Z",
+    "updatedAt": "2024-10-15T14:30:00Z",
+    "commentsCount": 245,
+    "bookmarksCount": 67,
+    "ministry": "Ministry of Corporate Affairs",
+    "attachments": [
+      {
+        "id": "att-1",
+        "name": "Draft_Companies_Amendment_Rules_2024.pdf",
+        "size": 2456789,
+        "type": "application/pdf",
+        "url": "#"
+      }
+    ],
+    "tags": ["companies act", "sme", "compliance", "corporate governance"],
+    "language": "en",
+    "priority": "high"
+  },
+  {
+    "id": "consultation-2",
+    "title": "National Financial Reporting Authority Guidelines",
+    "description": "Draft guidelines for auditing standards and financial reporting norms to enhance transparency in corporate financial disclosures.",
+    "content": "The National Financial Reporting Authority (NFRA) seeks public consultation on revised auditing standards and financial reporting guidelines. The key areas covered include:\n\n1. Enhanced auditor independence requirements\n2. Mandatory disclosure of key audit matters\n3. Rotation of audit partners every 5 years\n4. Strengthened internal financial controls\n5. ESG reporting mandates for listed companies\n\nThese guidelines will apply to all listed companies and large unlisted companies with paid-up capital exceeding ₹100 crores or annual turnover exceeding ₹200 crores.\n\nThe draft has been developed considering international best practices and feedback from the Institute of Chartered Accountants of India (ICAI) and other professional bodies.",
+    "category": "Financial Reporting",
+    "status": "active",
+    "deadline": "2025-11-30T23:59:59Z",
+    "createdAt": "2024-09-15T10:30:00Z",
+    "updatedAt": "2024-10-20T16:45:00Z",
+    "commentsCount": 189,
+    "bookmarksCount": 45,
+    "ministry": "Ministry of Corporate Affairs",
+    "attachments": [
+      {
+        "id": "att-2",
+        "name": "NFRA_Guidelines_Draft_2024.pdf",
+        "size": 1876543,
+        "type": "application/pdf",
+        "url": "#"
+      }
+    ],
+    "tags": ["nfra", "auditing", "financial reporting", "esg"],
+    "language": "en",
+    "priority": "medium"
+  },
+  {
+    "id": "consultation-3",
+    "title": "Digital India Corporate Services Platform",
+    "description": "Consultation on the proposed unified digital platform for all corporate services including incorporation, compliance, and regulatory filings.",
+    "content": "The Ministry proposes to launch a comprehensive Digital India Corporate Services Platform that will serve as a single window for all corporate services. The platform will integrate:\n\n1. Company incorporation and LLP formation\n2. Annual filing and compliance management\n3. Director and key personnel appointments\n4. Regulatory approvals and clearances\n5. Grievance redressal mechanism\n6. Real-time status tracking\n7. AI-powered compliance assistance\n\nThe platform aims to reduce the time for company incorporation from 16-20 days to 1-2 days and eliminate the need for multiple portal visits.\n\nWe seek feedback on user interface design, security features, integration requirements, and implementation timeline.",
+    "category": "Digital Governance",
+    "status": "draft",
+    "deadline": "2026-01-15T23:59:59Z",
+    "createdAt": "2024-11-01T08:00:00Z",
+    "updatedAt": "2024-11-10T12:20:00Z",
+    "commentsCount": 78,
+    "bookmarksCount": 34,
+    "ministry": "Ministry of Corporate Affairs",
+    "attachments": [
+      {
+        "id": "att-3",
+        "name": "Digital_Platform_Concept_Note.pdf",
+        "size": 1234567,
+        "type": "application/pdf",
+        "url": "#"
+      },
+      {
+        "id": "att-4",
+        "name": "Platform_Architecture_Diagram.png",
+        "size": 567890,
+        "type": "image/png",
+        "url": "#"
+      }
+    ],
+    "tags": ["digital india", "corporate services", "single window", "ai"],
+    "language": "en",
+    "priority": "high"
+  }
+]

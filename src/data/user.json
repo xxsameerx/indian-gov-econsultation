@@ -7,7 +7,14 @@
     "location": "New Delhi",
     "organization": "Ministry of Corporate Affairs",
     "isVerified": true,
-    "createdAt": "2024-01-15T10:00:00Z"
+    "createdAt": "2024-01-15T10:00:00Z",
+    "avatar": "https://via.placeholder.com/40",
+    "phone": "+91-9876543210",
+    "preferences": {
+      "language": "en",
+      "notifications": true,
+      "emailUpdates": true
+    }
   },
   {
     "id": "user-1",
@@ -17,16 +24,30 @@
     "location": "Mumbai, Maharashtra",
     "organization": "TCS Limited",
     "isVerified": true,
-    "createdAt": "2024-03-20T14:30:00Z"
+    "createdAt": "2024-03-20T14:30:00Z",
+    "avatar": "https://via.placeholder.com/40",
+    "phone": "+91-9876543211",
+    "preferences": {
+      "language": "en",
+      "notifications": true,
+      "emailUpdates": false
+    }
   },
   {
     "id": "user-2",
-    "email": "priya.patel@gmail.com",
+    "email": "priya.patel@yahoo.com",
     "name": "Priya Patel",
     "role": "citizen",
     "location": "Ahmedabad, Gujarat",
-    "organization": "Infosys Limited",
-    "isVerified": true,
-    "createdAt": "2024-02-10T11:15:00Z"
+    "organization": "Freelancer",
+    "isVerified": false,
+    "createdAt": "2024-04-10T09:15:00Z",
+    "avatar": "https://via.placeholder.com/40",
+    "phone": "+91-9876543212",
+    "preferences": {
+      "language": "hi",
+      "notifications": true,
+      "emailUpdates": true
+    }
   }
 ]

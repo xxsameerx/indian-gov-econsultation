@@ -1,0 +1,65 @@
+[
+  {
+    "id": "comment-1",
+    "consultationId": "consultation-1",
+    "userId": "user-1",
+    "userInfo": {
+      "name": "Rajesh Sharma",
+      "avatar": "https://via.placeholder.com/40",
+      "organization": "TCS Limited"
+    },
+    "content": "The proposed amendments are a welcome step towards reducing compliance burden on SMEs. However, I suggest that the turnover threshold should be increased to Rs50 crores to benefit more mid-sized companies.",
+    "section": "Section 1: Simplified Annual Filing",
+    "parentId": "",
+    "replies": [],
+    "likes": 45,
+    "dislikes": 3,
+    "sentiment": "positive",
+    "status": "approved",
+    "createdAt": "2024-10-02T10:15:00Z",
+    "attachments": [],
+    "isEdited": false
+  },
+  {
+    "id": "comment-2",
+    "consultationId": "consultation-1",
+    "userId": "user-2",
+    "userInfo": {
+      "name": "Priya Patel",
+      "avatar": "https://via.placeholder.com/40",
+      "organization": "Infosys Limited"
+    },
+    "content": "While the intent is good, the implementation timeline seems too aggressive. Many companies will need time to update their systems and train their staff.",
+    "section": "Section 4: Implementation Timeline",
+    "parentId": "",
+    "replies": [],
+    "likes": 23,
+    "dislikes": 8,
+    "sentiment": "neutral",
+    "status": "approved",
+    "createdAt": "2024-10-03T14:45:00Z",
+    "attachments": [],
+    "isEdited": true
+  },
+  {
+    "id": "comment-3",
+    "consultationId": "consultation-2",
+    "userId": "user-1",
+    "userInfo": {
+      "name": "Rajesh Sharma",
+      "avatar": "https://via.placeholder.```/40",
+      "organization": "TCS Limited"
+    },
+    "content": "The NFRA guidelines are comprehensive```ut the ESG reporting```quirements might``` challenging for smaller liste```ompanies.",
+    "section": "ESG Reporting Requirements",
+    "parentId": "",
+    "replies": [],
+    "likes": 34,
+    "dislikes": 5,
+    "sentiment": "neutral",
+    "status": "approved",
+    "createdAt": "2024-09-16T13:25:00Z",
+    "attachments": [],
+    "isEdited": false
+  }
+]
